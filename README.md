@@ -1,7 +1,7 @@
 # Data-Streaming-Pipeline
 
 
-A step by step guide to building a highly scalable data streaming pipeline in Python. Article is avialable [here](https://medium.com/geekculture/building-a-highly-scalable-data-streaming-pipeline-in-python-1f3d317a142a)
+A step by step guide to building a highly scalable data streaming pipeline in Python. Article is avialable [here](https://www.linkedin.com/pulse/building-highly-scalable-data-streaming-pipeline-python-haseeb/)
 
 
 Architecture
